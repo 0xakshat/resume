@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Shankhdhar</h1>
-<h3 align="center">A passionate backend developer and code entusiast from India.</h3>
+<h3 align="center">A passionate backend developer and code enthusiast from India.</h3>
 <img align="right" width=300  alt="Coding" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugewarriors&label=Profile%20views&color=0e75b6&style=flat" alt="hugewarriors" /> </p>
