@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend development(springboot, SQL datbases, Redis etc)**
 
-- 💬 Ask me about **Competetive programming, Problem Solving, C++ and Java development**
+- 💬 Ask me about **Competitive programming, Problem Solving, C++ and Java development**
 
 - 📫 How to reach me **hugewarriors@gmail.com**
 
